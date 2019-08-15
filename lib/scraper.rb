@@ -36,5 +36,5 @@ class Scraper
 end
 
 # Scraper.new.print_courses
-asdf = Scraper.new.get_page
+asdf = Scraper.new.get_cources
 puts asdf

@@ -35,6 +35,4 @@ class Scraper
 
 end
 
-# Scraper.new.print_courses
-asdf = Scraper.new.make_courses
-puts asdf
+Scraper.new.print_courses
